@@ -15,8 +15,8 @@
   - Divisão
 
 # Modo de uso 
-Digite a URL e a mesma irá te direcionar para o site da calculadora;
-Para digitar a operação desejada, digite a URL: wwww/xxxx/yyyy/zzzz
+- Digite a URL e a mesma irá te direcionar para o site da calculadora;
+- Para digitar a operação desejada, digite a URL: wwww/xxxx/yyyy/zzzz
 
-# Exigências
- A calculadora é totalmente online, assim, seus simples requisitos são: uma internet estável e um navegador da sua preferência
+# 
+- A calculadora é totalmente online, assim, seus simples requisitos são: uma internet estável e um navegador da sua preferência
