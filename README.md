@@ -21,3 +21,6 @@
 # ***Pré-Requisitos para seu uso***
 - Ter conexão com internet;
 - Utilizar um navegador de sua preferência.
+
+# ***Funções adicionais***
+- Histórico de cálculos.
