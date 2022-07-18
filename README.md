@@ -8,7 +8,7 @@
 - João Pedro de O. Santos
 - Marcela Silva
 
-# ***Calculadora***
+# **Calculadora**
   - Adição
   - Subtração
   - Multiplicação
