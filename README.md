@@ -6,7 +6,7 @@
 - Camila Lima
 - Jéssica Mariane 
 - João Pedro de O. Santos
-- Marcela Silva
+- Marcela Franco
 
 # **Calculadora**
   - Adição
