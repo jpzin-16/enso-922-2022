@@ -15,7 +15,7 @@
   - Divisão
 
 # ***Modo de uso*** 
-- Digite a URL e a mesma irá te direcionar para o site da calculadora;
+- Digite a URL e a mesma irá lhe direcionar para o site da calculadora;
 - Para digitar a operação desejada, digite a URL: wwww/xxxx/yyyy/zzzz
 
 # ***Pré-Requisitos para seu uso***
