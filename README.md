@@ -22,5 +22,5 @@
 - Ter conexão com internet;
 - Utilizar um navegador de sua preferência.
 
-# ***Funções Adicinais***
+# ***Funções Adicionais***
 - Histórico de cálculos.
