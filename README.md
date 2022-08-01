@@ -3,10 +3,10 @@
 - O objetivo desse software é realizar de forma simples e objetiva, operações matemáticas, como: Adição, subtração, multiplicação e divisão. A forma de uso é através do URL no navegador, o tornando bem simples para uso.   
 
 ## ***PARTICIPANTES*** 
-- Camila Lima
-- Jéssica Mariane 
+- Camila Lima da Silva
+- Jéssica Mariane da Silva Santos
 - João Pedro de O. Santos
-- Marcela Silva
+- Marcela Silva Franco
 
 # ***Calculadora***
   - Adição
