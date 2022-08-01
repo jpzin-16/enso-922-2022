@@ -9,10 +9,11 @@
 - **Marcela Silva.**
 
 # ***Calculadora***
-  - Adição;
-  - Subtração;
-  - Multiplicação;
-  - Divisão.
+
+  - :heavy_plus_sign:  Adição;
+  - :heavy_minus_sign: Subtração;
+  - :heavy_multiplication_x: Multiplicação;
+  - :heavy_division_sign: Divisão;
 
 # ***Modo de uso*** 
 - Digite a URL e a mesma irá te direcionar para o site da calculadora;
@@ -21,3 +22,6 @@
 # ***Pré-Requisitos para seu uso***
 - Ter conexão com internet;
 - Utilizar um navegador de sua preferência.
+
+# ***Funções Adicionais***
+- Histórico de cálculos.
