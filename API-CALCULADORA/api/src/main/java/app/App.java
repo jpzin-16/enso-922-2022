@@ -7,7 +7,8 @@ public class App extends Jooby {
   {
 
     mvc(new Controller());
-    mvc(new Multiplicacao());
+    mvc(new Subtracao());
+
   }
   public static void main(final String[] args) {
     runApp(args, App::new);
