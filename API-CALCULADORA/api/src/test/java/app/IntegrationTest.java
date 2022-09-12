@@ -19,9 +19,8 @@ public class IntegrationTest {
   @Test
   public void shouldSayHi(int serverPort) throws IOException {
     Request req = new Request.Builder()
-        .url("http://localhost:" + serverPort)
-        .build();
-
+      .url("http://localhost:" + serverPort)
+      .build();
     try (Response rsp = client.newCall(req).execute()) {
       assertEquals("Welcome to Jooby!", rsp.body().string());
       assertEquals(StatusCode.OK.value(), rsp.code());
