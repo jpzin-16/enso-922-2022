@@ -30,7 +30,6 @@ public class SubtracaoTeste{
     public void valoresNulos(){
         double n1 = subtracao.calculandoSubtracao(0.0, 0.0);
         assertEquals(0.0, n1);
-
     }
 
     @Test
