@@ -7,7 +7,7 @@ public class Multiplicacao{
 
 
     @GET
-    public double calculandoDivisao(@PathParam double op, @PathParam double op2){
+    public double calculandoMultiplicacao(@PathParam double op, @PathParam double op2){
         return op*op2;
     }
 }
